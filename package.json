@@ -1,10 +1,10 @@
 {
-  "name": "",
-  "title": "",
-  "displayName": "",
+  "name": "N1-xp-luna",
+  "title": "XP Luna",
+  "displayName": "XP Luna",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "",
+  "description": "A Windows XP Luna theme for N1",
   "license": "GPL-3.0",
   "engines": {
     "nylas": "*"
